@@ -1,0 +1,1 @@
+A powerful Network Intrusion Detection System that provides real-time network security monitoring through an elegant web-based dashboard. Built with Python, this IDS leverages machine learning for anomaly detection and delivers instant visualization of network threats.
